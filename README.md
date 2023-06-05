@@ -13,7 +13,11 @@ Espero que estas respuestas sean gratas de analizar y en el caso de haber feedba
 
 <br><br>
 
-[[_TOC_]]
+## Tabla de contenidos
+1. [Introducción](#introduccion)
+2. [Tecnologías](#tecnologias)
+3. [Descripción](#descripcion)
+4. [Canales de Comunicación](#canales)
 
 
 <p name = "introduccion"></p>
@@ -33,10 +37,9 @@ pip install requests
 ```
 <br><br>
 
-
 <p name = "descripcion"></p>
 
-## 🔧 Descripción.
+## 📜 Descripción.
 
 Para la primera parte del ✨ Challenge ✨ están disponibles los archivos:
 ```
